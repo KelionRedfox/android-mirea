@@ -1,4 +1,4 @@
-package com.mirea.saburov.loadermanager;
+package com.mirea.pletneva.loadermanager;
 
 import android.content.Context;
 

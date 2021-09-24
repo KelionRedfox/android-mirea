@@ -21,7 +21,7 @@
         </activity>
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.mirea.saburov.camera.fileprovider"
+            android:authorities="com.mirea.pletneva.camera.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
